@@ -24,6 +24,7 @@ Week 3:
   - Enums I.
   - Scala type hierarchy
   - Abstract classes and traits
+  - Packages and imports
     
 Week 4
   - Case classes, case objects
@@ -70,8 +71,6 @@ Week 12:
 Week 13: (student presentations)
   - Scala 3
   - Most famous Scala Frameworks
-
-Missing: packages and imports
 
 ### Resources
 

@@ -4,4 +4,5 @@
 .bsp/
 .idea/
 project/target/
+src/test/scala/sandbox/
 target/
